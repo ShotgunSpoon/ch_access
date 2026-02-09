@@ -1,3 +1,12 @@
+v1.1
+- Sound settings toggles now read their on/off values.
+- Gold gained is announced when killing enemies.
+- Achievements tab now fully navigable with arrow keys.
+- Achievement rewards can be claimed with Enter.
+- Achievements are automatically announced when earned.
+- Music volume can be adjusted with [ and ] keys.
+- Press M to hear music and SFX status.
+
 v1.0.1
 - Balance adjustments to the gold conversion system.
 
