@@ -1,3 +1,6 @@
+v1.1.1
+- Fixed achievement reward claiming.
+
 v1.1
 - Sound settings toggles now read their on/off values.
 - Gold gained is announced when killing enemies.
