@@ -1,0 +1,5 @@
+v1.0.1
+- Balance adjustments to the gold conversion system.
+
+v1.0.0
+- Initial release.
