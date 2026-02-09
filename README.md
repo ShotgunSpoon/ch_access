@@ -75,7 +75,6 @@ C:\Program Files (x86)\Steam\steamapps\common\Clicker Heroes
 | Key | Action |
 |-----|--------|
 | **Tab** | Cycle forward through screens (Combat → Heroes → Stats → Achievements) |
-| **Shift+Tab** | Cycle backward through screens |
 | **Enter** | Activate / confirm current selection |
 | **Escape** | Go back / close popup |
 | **F10** | Toggle between Screen Reader and SAPI speech output |
