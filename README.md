@@ -155,7 +155,7 @@ C:\Program Files (x86)\Steam\steamapps\common\Clicker Heroes
 
 Clicker Heroes has several paid DLC packs on Steam. Each DLC provides one Auto Clicker unit (a gameplay item that automates clicking) with a unique cosmetic skin. The DLCs do not add new game mechanics, heroes, or zones — just auto-clickers with skins.
 
-All DLC code and assets are included in the base game files regardless of purchase. The mod's existing auto-clicker skin selection popup is already accessible, announcing skin names, owned/locked status, and which skin is equipped. No additional purchase is required for the mod to work with DLC content.
+The mod's existing auto-clicker skin selection popup is already accessible, announcing skin names, owned/locked status, and which skin is equipped.
 
 ---
 
