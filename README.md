@@ -70,13 +70,14 @@ C:\Program Files (x86)\Steam\steamapps\common\Clicker Heroes
 
 ## Controls
 
-### General
+All screens use standard navigation: **Up/Down** or **Page Up/Page Down** to browse lists, **Left/Right** to switch sub-lists or adjust sliders, **Enter** to activate or confirm, **Escape** to go back or close.
+
+### Navigation
 
 | Key | Action |
 |-----|--------|
-| **Tab** | Cycle forward through screens (Combat → Heroes → Ancients → Outsiders → Stats → Achievements). Ancients and Outsiders tabs appear once unlocked in-game. |
-| **Enter** | Activate / confirm current selection |
-| **Escape** | Go back / close popup |
+| **Tab / Shift+Tab** | Cycle through screens (Combat → Heroes → Ancients → Outsiders → Stats → Achievements) |
+| **T** | Cycle level scale for the current tab (x1, x10, x25, x100, etc.) |
 | **F10** | Toggle between Screen Reader and SAPI speech output |
 
 ### Combat
@@ -84,8 +85,7 @@ C:\Program Files (x86)\Steam\steamapps\common\Clicker Heroes
 | Key | Action |
 |-----|--------|
 | **Space** | Click on monster (attack) |
-| **Left Arrow** | Previous zone |
-| **Right Arrow** | Next zone |
+| **Left Arrow / Right Arrow** | Navigate zones |
 
 ### Information
 
@@ -100,61 +100,22 @@ C:\Program Files (x86)\Steam\steamapps\common\Clicker Heroes
 | **R** | Read current screen content |
 | **Shift+R** | Announce ruby count from anywhere |
 
-### Hero Screen
+### Heroes
 
 | Key | Action |
 |-----|--------|
-| **Page Up / Page Down** | Navigate through hero list |
-| **Shift+Page Up / Shift+Page Down** | Jump 10 heroes |
-| **Left Arrow / Right Arrow** | Navigate buttons on current hero |
 | **L** | Hire, level up, or purchase upgrades for the selected hero |
 | **U** | Toggle upgrade navigation mode for the selected hero |
-
-### Upgrades (U Mode)
-
-| Key | Action |
-|-----|--------|
-| **U** | Enter/exit upgrade mode for the current hero |
-| **Page Up / Page Down** | Browse upgrades |
-| **Enter** | Purchase the selected upgrade |
-
-### Skills
-
-| Key | Action |
-|-----|--------|
 | **K** | Toggle skill navigation mode |
-| **Page Up / Page Down** | Navigate between skills (in skill mode) |
-| **Enter** | Activate selected skill (in skill mode) |
 
-### Achievements
+### Progression
 
 | Key | Action |
 |-----|--------|
-| **Up Arrow / Down Arrow** | Navigate achievements in the current list |
-| **Left Arrow / Right Arrow** | Switch between unclaimed and claimed achievement lists |
-| **Enter** | Claim reward for the selected achievement |
-
-### Ancients (after first ascension)
-
-Ancients are powerful beings that provide permanent bonuses. They are purchased and leveled using Hero Souls, which are earned by ascending (prestige). The Ancients tab appears automatically once you have ascended for the first time.
-
-| Key | Action |
-|-----|--------|
-| **Page Up / Page Down** | Navigate through owned ancients |
-| **Enter** | Level up the selected ancient |
-| **T** | Cycle level scale (x1, x10, x100, x1000, x10000) |
-| **R** | Read current ancient info |
-
-### Outsiders (after first transcension)
-
-Outsiders are beings beyond the ancients that provide powerful meta-bonuses. They are leveled using Ancient Souls, which are earned by transcending (a second layer of prestige that resets ancients and hero souls). The Outsiders tab appears automatically once transcension is available.
-
-| Key | Action |
-|-----|--------|
-| **Page Up / Page Down** | Navigate through outsiders |
-| **Enter** | Level up the selected outsider |
-| **T** | Cycle level scale (x1, x10, x100, x1000, MAX) |
-| **R** | Read current outsider info |
+| **A** | Check ascension progress (hero souls to gain, zone info) |
+| **Ctrl+A** | Ascend (open ascension confirmation) |
+| **Shift+T** | Check transcension progress (ancient souls, transcendent power) |
+| **Ctrl+T** | Transcend (open transcension confirmation) |
 
 ### Shop
 
@@ -163,7 +124,6 @@ Outsiders are beings beyond the ancients that provide powerful meta-bonuses. The
 | **R** | Announce ruby count |
 | **H** | Show shop help / ruby info |
 | **B** | Open gold-to-ruby conversion popup |
-| **Left Arrow / Right Arrow** | Adjust sliders in popups |
 
 ---
 

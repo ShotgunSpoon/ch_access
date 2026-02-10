@@ -4,6 +4,9 @@ v1.3
 - Added Outsiders tab: browse outsiders, view levels, effects, and costs. Level up with Enter. Appears after first transcension.
 - Tab cycling now dynamically includes Ancients and Outsiders tabs when they become available in-game.
 - T key level scale announcements now work on Ancients and Outsiders tabs with their own scale names.
+- Added A key to check ascension progress, Ctrl+A to ascend.
+- Added Shift+T to check transcension progress, Ctrl+T to transcend.
+- Cleaned up README with streamlined controls layout.
 
 v1.2
 - Added hero upgrade navigation mode (U key). Browse, view, and purchase upgrades for the selected hero.
