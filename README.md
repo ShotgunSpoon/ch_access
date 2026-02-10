@@ -74,7 +74,7 @@ C:\Program Files (x86)\Steam\steamapps\common\Clicker Heroes
 
 | Key | Action |
 |-----|--------|
-| **Tab** | Cycle forward through screens (Combat → Heroes → Stats → Achievements) |
+| **Tab** | Cycle forward through screens (Combat → Heroes → Ancients → Outsiders → Stats → Achievements). Ancients and Outsiders tabs appear once unlocked in-game. |
 | **Enter** | Activate / confirm current selection |
 | **Escape** | Go back / close popup |
 | **F10** | Toggle between Screen Reader and SAPI speech output |
@@ -133,6 +133,28 @@ C:\Program Files (x86)\Steam\steamapps\common\Clicker Heroes
 | **Up Arrow / Down Arrow** | Navigate achievements in the current list |
 | **Left Arrow / Right Arrow** | Switch between unclaimed and claimed achievement lists |
 | **Enter** | Claim reward for the selected achievement |
+
+### Ancients (after first ascension)
+
+Ancients are powerful beings that provide permanent bonuses. They are purchased and leveled using Hero Souls, which are earned by ascending (prestige). The Ancients tab appears automatically once you have ascended for the first time.
+
+| Key | Action |
+|-----|--------|
+| **Page Up / Page Down** | Navigate through owned ancients |
+| **Enter** | Level up the selected ancient |
+| **T** | Cycle level scale (x1, x10, x100, x1000, x10000) |
+| **R** | Read current ancient info |
+
+### Outsiders (after first transcension)
+
+Outsiders are beings beyond the ancients that provide powerful meta-bonuses. They are leveled using Ancient Souls, which are earned by transcending (a second layer of prestige that resets ancients and hero souls). The Outsiders tab appears automatically once transcension is available.
+
+| Key | Action |
+|-----|--------|
+| **Page Up / Page Down** | Navigate through outsiders |
+| **Enter** | Level up the selected outsider |
+| **T** | Cycle level scale (x1, x10, x100, x1000, MAX) |
+| **R** | Read current outsider info |
 
 ### Shop
 
