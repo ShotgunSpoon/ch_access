@@ -1,3 +1,14 @@
+v1.2
+- Added hero upgrade navigation mode (U key). Browse, view, and purchase upgrades for the selected hero.
+- Added achievement list splitting: unclaimed and claimed achievements are now in separate lists. Use Left/Right arrow to switch between them.
+- Fixed achievement reward claiming not granting rubies. The game event is now properly fired when collecting rewards.
+- Fixed zone and combat announcements playing on non-gameplay screens (settings, achievements, heroes, stats).
+- Fixed zone and combat announcements playing before pressing Play on the start screen.
+- Added window focus detection: all speech is muted when the game window is not in focus.
+- Fixed skill unlock messages saying "hiring" instead of "upgrading" — skills are unlocked by purchasing hero upgrades, not by hiring.
+- L key now hires heroes, levels them up, and purchases available upgrades depending on context.
+- Upgrade announcements include name, cost, purchase status, level requirement, effect description, and flavor text.
+
 v1.1.1
 - Fixed achievement reward claiming.
 

@@ -107,7 +107,16 @@ C:\Program Files (x86)\Steam\steamapps\common\Clicker Heroes
 | **Page Up / Page Down** | Navigate through hero list |
 | **Shift+Page Up / Shift+Page Down** | Jump 10 heroes |
 | **Left Arrow / Right Arrow** | Navigate buttons on current hero |
-| **L** | Level up selected hero |
+| **L** | Hire, level up, or purchase upgrades for the selected hero |
+| **U** | Toggle upgrade navigation mode for the selected hero |
+
+### Upgrades (U Mode)
+
+| Key | Action |
+|-----|--------|
+| **U** | Enter/exit upgrade mode for the current hero |
+| **Page Up / Page Down** | Browse upgrades |
+| **Enter** | Purchase the selected upgrade |
 
 ### Skills
 
@@ -116,6 +125,14 @@ C:\Program Files (x86)\Steam\steamapps\common\Clicker Heroes
 | **K** | Toggle skill navigation mode |
 | **Page Up / Page Down** | Navigate between skills (in skill mode) |
 | **Enter** | Activate selected skill (in skill mode) |
+
+### Achievements
+
+| Key | Action |
+|-----|--------|
+| **Up Arrow / Down Arrow** | Navigate achievements in the current list |
+| **Left Arrow / Right Arrow** | Switch between unclaimed and claimed achievement lists |
+| **Enter** | Claim reward for the selected achievement |
 
 ### Shop
 
@@ -131,6 +148,14 @@ C:\Program Files (x86)\Steam\steamapps\common\Clicker Heroes
 ## Known Issues
 
 - Sound effects may not always play as expected. Some audio cues may be missing, delayed, or fail to trigger in certain situations.
+
+---
+
+## DLC Support
+
+Clicker Heroes has several paid DLC packs on Steam. Each DLC provides one Auto Clicker unit (a gameplay item that automates clicking) with a unique cosmetic skin. The DLCs do not add new game mechanics, heroes, or zones — just auto-clickers with skins.
+
+All DLC code and assets are included in the base game files regardless of purchase. The mod's existing auto-clicker skin selection popup is already accessible, announcing skin names, owned/locked status, and which skin is equipped. No additional purchase is required for the mod to work with DLC content.
 
 ---
 
