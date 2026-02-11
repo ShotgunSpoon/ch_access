@@ -86,6 +86,7 @@ All screens use standard navigation: **Up/Down** or **Page Up/Page Down** to bro
 |-----|--------|
 | **Space** | Click on monster (attack) |
 | **Left Arrow / Right Arrow** | Navigate zones |
+| **C** | Collect clickable (treasure chest, orange fish) on screen. Press repeatedly for floaters. |
 
 ### Information
 
@@ -107,6 +108,33 @@ All screens use standard navigation: **Up/Down** or **Page Up/Page Down** to bro
 | **L** | Hire, level up, or purchase upgrades for the selected hero |
 | **U** | Toggle upgrade navigation mode for the selected hero |
 | **K** | Toggle skill navigation mode |
+| **B** | Buy all available upgrades |
+
+### Panels
+
+| Key | Action |
+|-----|--------|
+| **Shift+G** | Open Gilded Heroes popup |
+| **Shift+I** | Open Items/Relics popup |
+| **Shift+M** | Open/close Mercenary navigation |
+
+### Mercenaries (Shift+M to open)
+
+| Key | Action |
+|-----|--------|
+| **N / Shift+N** | Navigate forward/backward through mercenaries |
+| **Q** | Quest action: start quest (idle), revive (dead), or check status (on quest) |
+| **Shift+Q** | Bury dead mercenary for gold reward |
+| **F** | Collect completed quest reward |
+
+### Relics (Shift+I to open Items popup)
+
+| Key | Action |
+|-----|--------|
+| **Up / Down** | Browse relics (equipped first, then unequipped) |
+| **Enter** | Equip or unequip the selected relic |
+| **X / Delete** | Salvage the selected relic for forge cores |
+| **Shift+J** | Salvage all unequipped (junk) relics |
 
 ### Progression
 

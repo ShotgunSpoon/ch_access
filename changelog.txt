@@ -1,3 +1,15 @@
+v1.4
+- Added treasure chest / clickable detection: announces when clickables spawn, press C to collect for gold and rubies.
+- Added floater detection and interaction: press C repeatedly to defeat floaters for skill activations.
+- Added mercenary navigation (Shift+M): browse mercenaries with N/Shift+N, view name, rarity, level, bonus stats, and quest status.
+- Added mercenary quest system: press Q to start quests with in-memory quest selection (Up/Down to browse, Enter to start). Press F to collect completed quest rewards.
+- Added mercenary revival: Q on a dead mercenary revives (bonus lives first, then rubies). Shift+Q buries for gold.
+- Added relic/item management in Items popup (Shift+I): Up/Down to browse, Enter to equip/unequip, X to salvage, Shift+J to salvage all junk.
+- Added gilded hero chest popup support: Enter opens all chests when purchasing gilded hero packs.
+- Added custom achievement reward system: claim achievements for a percentage-based damage multiplier (click damage and DPS). Rewards saved in game save file for Steam Cloud compatibility.
+- Fixed Shift+T and Ctrl+T also changing the level scale. Modifier keys now properly suppress the T key toggle.
+- Fixed DPS not increasing from achievement rewards. Both click damage and DPS are now multiplied.
+
 v1.3
 - Adds support for late game content and transcension.
 - Added Ancients tab: browse owned ancients, view levels, effects, and costs. Level up with Enter. Appears after first ascension.
