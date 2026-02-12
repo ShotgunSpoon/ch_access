@@ -1,3 +1,14 @@
+v1.5
+- Added zone name announcements: the name of the current zone/region is now announced when changing zones.
+- Fixed ancients being summoned incorrectly.
+- Added Ruby Shop upgrade progression with 3 game-altering purchases:
+  - Instant Spawn (5,000 rubies): removes the 0.5s monster spawn delay so monsters appear immediately.
+  - Instakill Chain (7,500 rubies): overflow damage carries to the next monster, chaining kills.
+  - Engine Clicker (10,000 rubies): hold Space for max-speed clicking instead of one click per press.
+- Added stackable DPS Multiplier (500+ rubies): each purchase doubles all damage. Cost increases by 500 per purchase.
+- Shop upgrades unlock in order: Instant Spawn → Instakill Chain → Engine Clicker.
+- All mod purchases are saved in the game save file for Steam Cloud compatibility.
+
 v1.4
 - Added treasure chest / clickable detection: announces when clickables spawn, press C to collect for gold and rubies.
 - Added floater detection and interaction: press C repeatedly to defeat floaters for skill activations.

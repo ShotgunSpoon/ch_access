@@ -84,7 +84,7 @@ All screens use standard navigation: **Up/Down** or **Page Up/Page Down** to bro
 
 | Key | Action |
 |-----|--------|
-| **Space** | Click on monster (attack) |
+| **Space** | Click on monster (attack). With Engine Clicker purchased, hold Space for max-speed clicking. |
 | **Left Arrow / Right Arrow** | Navigate zones |
 | **C** | Collect clickable (treasure chest, orange fish) on screen. Press repeatedly for floaters. |
 
@@ -152,6 +152,21 @@ All screens use standard navigation: **Up/Down** or **Page Up/Page Down** to bro
 | **R** | Announce ruby count |
 | **H** | Show shop help / ruby info |
 | **B** | Open gold-to-ruby conversion popup |
+
+---
+
+## Ruby Shop Upgrades
+
+The mod adds a progression of game-altering upgrades to the ruby shop. These unlock in order — each upgrade appears after the previous one is purchased.
+
+| Upgrade | Cost | Effect |
+|---------|------|--------|
+| **Instant Spawn** | 5,000 rubies | Removes the 0.5s delay between monster spawns. Monsters appear immediately. |
+| **Instakill Chain** | 7,500 rubies | Overflow damage carries to the next monster, chaining kills through weaker enemies. |
+| **Engine Clicker** | 10,000 rubies | Hold Space for max-speed clicking (~3000+ clicks/sec) instead of one click per press. |
+| **DPS Multiplier** | 500+ rubies (stackable) | Each purchase doubles all damage. Cost increases by 500 per purchase (500, 1000, 1500...). |
+
+All purchases are saved in your game save file and sync with Steam Cloud.
 
 ---
 
